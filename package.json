@@ -18,6 +18,7 @@
   "homepage": "https://github.com/amir248/1#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^3.1.10",
     "express": "^4.21.2"
   }
 }
